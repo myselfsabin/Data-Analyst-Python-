@@ -34,6 +34,4 @@ The main goal of this project is to:
 - **Seaborn**
 - **Jupyter Notebook**
 
----
 
-## 📂 Project Structure
